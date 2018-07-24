@@ -1,0 +1,10 @@
+#new-post{
+    background-color: lightgray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: none;
+}
+
+.post-date{
+    color: gray;
+}
